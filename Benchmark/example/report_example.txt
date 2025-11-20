@@ -1,0 +1,18 @@
+
+name : n1
+lowerleft : 0 0
+
+name : n2
+lowerleft : 6 0
+
+name : n3
+lowerleft : 0 4
+
+name : n4
+lowerleft : 2 4
+
+name : n5
+lowerleft : 4 6
+
+name : n6
+lowerleft : 0 10

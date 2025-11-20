@@ -1,0 +1,48 @@
+
+name : m1
+lowerleft : 0 0
+
+name : m2
+lowerleft : 20 0
+
+name : m3
+lowerleft : 44 0
+
+name : m4
+lowerleft : 66 0
+
+name : m5
+lowerleft : 66 10
+
+name : m6
+lowerleft : 44 32
+
+name : m7
+lowerleft : 20 24
+
+name : m8
+lowerleft : 44 54
+
+name : m9
+lowerleft : 20 50
+
+name : m10
+lowerleft : 0 30
+
+name : m11
+lowerleft : 20 66
+
+name : m12
+lowerleft : 32 70
+
+name : m13
+lowerleft : 20 78
+
+name : m14
+lowerleft : 0 70
+
+name : m15
+lowerleft : 16 70
+
+name : m16
+lowerleft : 0 90

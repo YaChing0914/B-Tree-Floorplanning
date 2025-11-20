@@ -1,0 +1,27 @@
+
+name : cc_12
+lowerleft : 0 0
+
+name : cc_21
+lowerleft : 3318 1839
+
+name : cc_24
+lowerleft : 6441 0
+
+name : cc_14
+lowerleft : 3318 0
+
+name : clk
+lowerleft : 3750 3868
+
+name : cc_23
+lowerleft : 0 1731
+
+name : cc_13
+lowerleft : 6194 1861
+
+name : cc_22
+lowerleft : 6194 3244
+
+name : cc_11
+lowerleft : 2168 3868
