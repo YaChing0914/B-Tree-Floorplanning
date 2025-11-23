@@ -71,3 +71,7 @@ Supports the following operations:
 > ./tree_floorplan <input.nodes>
 
 Place the input .nodes (and .perturbation, if required) in the same directory before running.
+
+This project simulates a simplified floorplanning engine similar to
+those used in commercial EDA tools (Cadence, Synopsys) for IC physical design.
+
